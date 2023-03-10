@@ -1,0 +1,16 @@
+__pycache__
+
+extracted_images/
+inverted_images/
+
+dataset_inkml/
+dataset_jpg/
+dataset/
+
+mnist/
+
+data.rar
+
+Presentation_pytorch_intro.pdf
+mainHMM.py
+test.py
